@@ -1,1 +1,1 @@
-<h1> CipherSchool DSA Practice Question </h1>
+<h1> DSA Practice Question </h1>
